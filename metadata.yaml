@@ -1,0 +1,39 @@
+_repo: Secrets-of-Earth-and-Sea_53751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lankester, E. Ray (Edwin Ray), Sir
+    aliases:
+    - Lankester, Ray, Sir
+    - Lankester, Edwin Ray, Sir
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '32398'
+    url: http://www.gutenberg.org/2009/agents/32398
+    wikipedia: http://en.wikipedia.org/wiki/Ray_Lankester
+description: ''
+gutenberg_issued: '2016-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science'
+- !lcsh 'Art, Primitive'
+- !lcsh 'Archaeology'
+- !lcsh 'Natural history'
+- GITenberg
+tableOfContents: The earliest picture in the world -- Portraits of mammoths by men
+  who saw them -- The art of prehistoric men -- Vesuvius in eruption -- Blue water
+  -- The biggest beast -- What is meant by "a species"? -- More about species -- Species
+  in the making -- Some specific characters -- Hybrids -- The cross-breeding of races
+  -- Wheel animalcules -- More about wheel animalcules -- Suspended animation -- More
+  about suspended animation -- The swastika -- The origin of the swastika -- The tomoye
+  and the swastika -- Coal -- Boring for oil -- The story of lime-juice and scurvy
+  -- Index.
+title: Secrets of Earth and Sea
+url: http://www.gutenberg.org/ebooks/53751
